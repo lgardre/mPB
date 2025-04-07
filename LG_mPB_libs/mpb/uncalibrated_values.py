@@ -1,0 +1,7 @@
+Z_TAILS = 1.42 # nm
+Z_HEADS = 3.3 # nm
+EPSILON_R_TAILS = 2.0
+EPSILON_R_BULKWATER = 80
+C_SALT = 1e-3 # nm⁻³
+R_ANION = 0.187 # nm
+R_CATION = 0.186 # nm
